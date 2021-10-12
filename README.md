@@ -1,3 +1,3 @@
 # pancakes
 
-Welcome to Pancakes!
+Welcome to pancakes!
